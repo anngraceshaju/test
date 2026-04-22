@@ -1,0 +1,7 @@
+print('hello world')
+a=("python")
+print(a)
+a=(10)
+print(a)
+a=(12.5)
+print(a)
